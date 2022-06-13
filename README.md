@@ -1,6 +1,9 @@
 # detectron2-demo
 
-This repo is a object detection model served by a simple web application. By default it is set to detect cars ("car", "truck", "bus" COCO classes)
+This repo is an object detection model served by a simple web application. By default it is set to detect cars ("car", "truck", "bus" COCO classes)
+
+<img src="resourses/sample_results.png" alt="sample result" height="400"/>
+
 
 ## Usage
 
